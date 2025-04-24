@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Main2 {
     static class Empleado {
         String nombre;
         String cargo;
