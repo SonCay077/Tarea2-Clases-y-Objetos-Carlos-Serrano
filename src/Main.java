@@ -19,6 +19,7 @@ public class Main {
             System.out.println("Posicion: " + posicion);
             System.out.println("Edad: " + edad);
             System.out.println("NumCamiseta: " + numCamiseta);
+            System.out.println("Holas");
             System.out.println("///////////////////////////////");
         }
 
